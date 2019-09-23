@@ -1,3 +1,4 @@
 rencana konten wpu
 - java script
+- ES6
 - bikin vlog
